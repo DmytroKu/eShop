@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
-using eShop.Models;
 
-namespace eShop.Controllers
+namespace eShop.Models
 {
     public interface IProductRepository
     {

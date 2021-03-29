@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using eShop.Models;
+using eShop.Controllers;
 
-namespace eShop.Controllers
+namespace eShop.Models
 {
     public class MockCategoryRepository:ICategoryRepository
     {
