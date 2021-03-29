@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Pages\Product\" />
+    <Folder Include="wwwroot\lib\" />
   </ItemGroup>
 
 </Project>
